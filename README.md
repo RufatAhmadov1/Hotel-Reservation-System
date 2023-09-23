@@ -29,9 +29,11 @@ information to facilitate smooth financial transactions.
 Room Availability Tracking: The system maintains a database or data structure to track the
 availability of rooms. It allows staff to view room statuses, mark rooms as reserved or occupied,
 and update availability as guests check out.
+
 Reservation Management: The system enables staff to create new reservations by collecting
 guest information, preferred room type, and check-in/out dates. It checks for room availability
 and confirms the reservation.
+
 Booking Confirmation Generation: Once a reservation is confirmed, the system generates a
 booking confirmation that contains relevant details. It may generate a unique reservation ID for
 future reference
